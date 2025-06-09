@@ -1,5 +1,5 @@
 # Vision-Based-Runway-Detector-for-UAV
-Bu proje sadece image processing teknikleri kullanılarak bir insansız hava aracının iniş pistini nasıl algıladığını göstermek için geliştirilmiştir. Projenin ilk aşamasında gürültü azaltılması, renk maskesi ve canny + sobel gibi edge detection teknikleri kullanılmıştır, ikinci aşamada ise elde edilen kenarları daha temiz ve sade görebilmek için Opening ve Dilation gibi morfolojik yöntemler kullanılıp sonrasında pistlerdeki beyaz çizgileri algılayabilmek için Hough Transform yöntemi uygulanmıştır.
+Bu proje sadece matlab programlama dilini ve image processing tekniklerini kullanarak bir insansız hava aracının iniş pistini nasıl algıladığını göstermek için geliştirilmiştir. Projenin ilk aşamasında gürültü azaltılması, renk maskesi ve canny + sobel gibi edge detection teknikleri kullanılmıştır, ikinci aşamada ise elde edilen kenarları daha temiz ve sade görebilmek için Opening ve Dilation gibi morfolojik yöntemler kullanılıp sonrasında pistlerdeki beyaz çizgileri algılayabilmek için Hough Transform yöntemi uygulanmıştır.
 
 # 🛩️ Vision-Based UAV Runway Detection
 
